@@ -27,7 +27,6 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
 
 ## 📫 Connect With Me  
 🌐 Portfolio: https://vishwachari.netlify.app/ 
-
 💼 LinkedIn: https://www.linkedin.com/in/vishwachari  
 📧 Email: Vishwacharimupparam@gmail.com
 
