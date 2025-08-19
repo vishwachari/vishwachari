@@ -27,7 +27,7 @@ I love exploring new technologies, solving problems, and bringing creative ideas
 ---
 
 ## 📫 Connect With Me  
-🌐 Portfolio: vishwachari.netlify.app 
+🌐 Portfolio: https://vishwachari.netlify.app/
 💼 LinkedIn: https://www.linkedin.com/in/vishwachari  
 📧 Email: Vishwacharimupparam@gmail.com
 
