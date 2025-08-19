@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Vishwachari!
 
-Welcome to my GitHub! I'm a passionate Computer Science & Engineering student with a knack for building practical and impactful projects.  
-I love exploring new technologies, solving problems, and bringing creative ideas to life. ✨
+Welcome to my GitHub! I'm a passionate Computer Science & Engineering student with a knack for building practical and impactful projects.I love exploring new technologies, solving problems, and bringing creative ideas to life. ✨
 
 ---
 
@@ -27,7 +26,8 @@ I love exploring new technologies, solving problems, and bringing creative ideas
 ---
 
 ## 📫 Connect With Me  
-🌐 Portfolio: https://vishwachari.netlify.app/
+🌐 Portfolio: https://vishwachari.netlify.app/ 
+
 💼 LinkedIn: https://www.linkedin.com/in/vishwachari  
 📧 Email: Vishwacharimupparam@gmail.com
 
