@@ -21,8 +21,12 @@ Welcome to my GitHub! I'm a passionate Computer Science & Engineering student wi
   *AI-based model predicting diabetes with high accuracy*  
 
 - 📊 [Data Visualization Dashboard](#)  
-  *Interactive dashboards using Power BI & Tableau*  
+  *Interactive dashboards using Power BI & Tableau*
+   ---
 
+ ## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwachari&layout=compact&theme=radical)
 ---
 
 ## 📫 Connect With Me  
